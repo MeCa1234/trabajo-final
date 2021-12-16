@@ -1,0 +1,52 @@
+body {
+    font-family: 'Monserrat', sans-serif;
+    overflow-x: hidden;
+}
+  
+#menu li > a {
+    font-size: 18px;
+    font-weight: bold;
+    color: #3f3f3f;
+}
+  
+#menu form > button {
+    font-size: 18px;
+    font-weight: bold;
+}
+  
+.carousel-inner {
+    max-height: 39rem;
+}
+
+#texto-contenido {
+  display: none;
+}
+
+#contenedor-formulario {
+    background: #fbfafa;
+    border-radius: 5px;
+    max-width: 500px;
+}
+
+#separador {
+  position: relative;
+  top: -10px;
+} 
+
+
+footer {
+  background: #000000;
+  min-height: 100px;
+}
+
+footer p {
+  color: #cabebe;
+  text-align: center;
+}
+
+#iconos i {
+  font-size: 26px;
+  padding: 8px;
+  color: #3f3f3f;
+
+}
